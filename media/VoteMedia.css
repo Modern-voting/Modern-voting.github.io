@@ -193,34 +193,8 @@
 	}
 }
 
-@media only screen and (max-width: 1300px) {
-	.HeaderDiv {
-		font-size: 2em;
-	}
-	
-	.ImgTable {
-		max-width: 100%;
-		height: 200px;  
-		margin-left: 2%;
-		margin-top: 2%;
-		width: auto\9;
-	}
 
-	.table {
-		border: 1px solid silver;
-		padding: 5px;
-		width: 65%;
-		font-size: 1.2em;
-		border-radius: 15px;
-		margin-left: 17.5%;
-		margin-right: 17.5%;
-		margin-top: 2%;
-		margin-bottom: 2%;
-	}
-	
-}
-
-@media only screen and (min-width: 1301px) {
+@media only screen and (min-width: 1000px) {
 	.HeaderDiv {
 		font-size: 2em;
 	}
